@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "y+5F0rJfBRvHzBYzNX8JJH2qKLUb9n6t2ulIGVbPwja9o7mrcl9FEySAcDS9Oer4JtlRH8NA884/nQ3XAK7Suw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Simple-Conditional-Statements\\P08-Ticket-Price\\P08-Ticket-Price.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

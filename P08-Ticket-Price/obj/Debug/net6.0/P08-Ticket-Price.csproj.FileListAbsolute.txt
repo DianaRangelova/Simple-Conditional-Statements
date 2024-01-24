@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P08-Ticket-Price\bin\Debug\net6.0\P08-Ticket-Price.exe
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P08-Ticket-Price\bin\Debug\net6.0\P08-Ticket-Price.deps.json
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P08-Ticket-Price\bin\Debug\net6.0\P08-Ticket-Price.runtimeconfig.json
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P08-Ticket-Price\bin\Debug\net6.0\P08-Ticket-Price.dll
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P08-Ticket-Price\bin\Debug\net6.0\P08-Ticket-Price.pdb
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P08-Ticket-Price\obj\Debug\net6.0\P08-Ticket-Price.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P08-Ticket-Price\obj\Debug\net6.0\P08-Ticket-Price.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P08-Ticket-Price\obj\Debug\net6.0\P08-Ticket-Price.AssemblyInfo.cs
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P08-Ticket-Price\obj\Debug\net6.0\P08-Ticket-Price.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P08-Ticket-Price\obj\Debug\net6.0\P08-Ticket-Price.dll
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P08-Ticket-Price\obj\Debug\net6.0\refint\P08-Ticket-Price.dll
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P08-Ticket-Price\obj\Debug\net6.0\P08-Ticket-Price.pdb
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P08-Ticket-Price\obj\Debug\net6.0\P08-Ticket-Price.genruntimeconfig.cache
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P08-Ticket-Price\obj\Debug\net6.0\ref\P08-Ticket-Price.dll

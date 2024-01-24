@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P09-Area-of-Figures\bin\Debug\net6.0\P09-Area-of-Figures.exe
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P09-Area-of-Figures\bin\Debug\net6.0\P09-Area-of-Figures.deps.json
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P09-Area-of-Figures\bin\Debug\net6.0\P09-Area-of-Figures.runtimeconfig.json
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P09-Area-of-Figures\bin\Debug\net6.0\P09-Area-of-Figures.dll
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P09-Area-of-Figures\bin\Debug\net6.0\P09-Area-of-Figures.pdb
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P09-Area-of-Figures\obj\Debug\net6.0\P09-Area-of-Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P09-Area-of-Figures\obj\Debug\net6.0\P09-Area-of-Figures.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P09-Area-of-Figures\obj\Debug\net6.0\P09-Area-of-Figures.AssemblyInfo.cs
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P09-Area-of-Figures\obj\Debug\net6.0\P09-Area-of-Figures.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P09-Area-of-Figures\obj\Debug\net6.0\P09-Area-of-Figures.dll
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P09-Area-of-Figures\obj\Debug\net6.0\refint\P09-Area-of-Figures.dll
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P09-Area-of-Figures\obj\Debug\net6.0\P09-Area-of-Figures.pdb
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P09-Area-of-Figures\obj\Debug\net6.0\P09-Area-of-Figures.genruntimeconfig.cache
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P09-Area-of-Figures\obj\Debug\net6.0\ref\P09-Area-of-Figures.dll

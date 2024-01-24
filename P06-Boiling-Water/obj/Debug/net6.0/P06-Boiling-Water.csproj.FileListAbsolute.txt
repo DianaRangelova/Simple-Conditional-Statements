@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P06-Boiling-Water\bin\Debug\net6.0\P06-Boiling-Water.exe
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P06-Boiling-Water\bin\Debug\net6.0\P06-Boiling-Water.deps.json
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P06-Boiling-Water\bin\Debug\net6.0\P06-Boiling-Water.runtimeconfig.json
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P06-Boiling-Water\bin\Debug\net6.0\P06-Boiling-Water.dll
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P06-Boiling-Water\bin\Debug\net6.0\P06-Boiling-Water.pdb
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P06-Boiling-Water\obj\Debug\net6.0\P06-Boiling-Water.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P06-Boiling-Water\obj\Debug\net6.0\P06-Boiling-Water.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P06-Boiling-Water\obj\Debug\net6.0\P06-Boiling-Water.AssemblyInfo.cs
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P06-Boiling-Water\obj\Debug\net6.0\P06-Boiling-Water.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P06-Boiling-Water\obj\Debug\net6.0\P06-Boiling-Water.dll
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P06-Boiling-Water\obj\Debug\net6.0\refint\P06-Boiling-Water.dll
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P06-Boiling-Water\obj\Debug\net6.0\P06-Boiling-Water.pdb
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P06-Boiling-Water\obj\Debug\net6.0\P06-Boiling-Water.genruntimeconfig.cache
+C:\Users\PC\source\repos\Simple-Conditional-Statements\P06-Boiling-Water\obj\Debug\net6.0\ref\P06-Boiling-Water.dll
